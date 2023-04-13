@@ -1,0 +1,10 @@
+EXERCICE 1 :
+Lorsqu'on modifie le dossier (en forçant la faute) puis en exécutant gcc -Wall ..., il affiche des erreurs.
+L'effet de la commande #include <stdio.h> est de déclarer les constantes, les définitions des fonctions utilisées dans les opérations 
+
+EXERCICE 2 :
+On observe une erreur
+
+EXERCICE 3 :
+printf entier non signé en signé : ça affiche l'entier non signé
+printf entier non signé en flottant : ça affiche 0
