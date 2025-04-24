@@ -1,5 +1,7 @@
 # 📘 Learning the C Programming Language
 
+![C Wallpaper](c.jpeg)
+
 This repository gathers a variety of practical exercises and small programs written in C. These were developed as part of a learning process using **Jupyter Notebooks** and terminal-based C compilation.
 
 The objective: solve all the exercises, understand core C programming concepts, and get hands-on experience with debugging, type systems, pointers, memory, and more.
